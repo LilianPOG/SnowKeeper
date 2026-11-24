@@ -1,0 +1,69 @@
+[16320:10444:1123/101030.477:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16320:46040:1123/101030.542:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16320:10444:1123/101030.555:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[43244:5012:1123/101031.664:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BABC3779775D017CEC70B7F69EA2BC4B will be ignored
+[16320:18440:1123/101112.499:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[16320:10444:1123/101112.595:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[16320:10444:1123/101112.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[16320:10444:1123/101112.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[16320:10444:1123/101112.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[16320:10444:1123/101112.598:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[16320:10444:1123/101112.598:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[16320:10444:1123/101112.600:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[16320:10444:1123/101112.600:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[16320:10444:1123/101114.845:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[16320:10444:1123/101114.845:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[32504:39228:1123/101912.267:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-10CA8037460CDAECCA65D0DEDBB51BF4 will be ignored
+[16320:10444:1123/104650.105:ERROR:device_event_log_impl.cc(196)] [10:46:50.065] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[16320:10444:1123/105837.128:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16320:10444:1123/105837.129:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16320:10444:1123/105842.129:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28264:39748:1123/110259.383:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-E9CFAB0F06A0F8DE5B296659E80877BE will be ignored
+[16320:18440:1123/110322.503:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,20]
+[16320:10444:1123/110322.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,20]
+[16320:10444:1123/110322.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,20]
+[16320:10444:1123/110322.517:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,20]
+[16320:10444:1123/110322.517:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,20]
+[16320:10444:1123/110322.518:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,23]
+[16320:10444:1123/110322.518:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,23]
+[16320:10444:1123/110322.518:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,23]
+[16320:10444:1123/110322.518:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,23]
+[16320:10444:1123/110323.616:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[16320:10444:1123/110323.616:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[19284:21676:1123/111701.893:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 15-4EC21292F1219FE41000D2936154838E will be ignored
+[16320:18440:1123/111752.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,30]
+[16320:10444:1123/111752.687:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,30]
+[16320:10444:1123/111752.687:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,30]
+[16320:10444:1123/111752.687:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,30]
+[16320:10444:1123/111752.687:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,30]
+[16320:10444:1123/111752.688:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,33]
+[16320:10444:1123/111752.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,33]
+[16320:10444:1123/111752.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,33]
+[16320:10444:1123/111752.689:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,33]
+[16320:10444:1123/111753.354:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[16320:10444:1123/111753.354:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[24648:36852:1123/112009.626:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 17-01B1A2139694909AEF0A0E8FEB80D472 will be ignored
+[16320:18440:1123/112110.719:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,39]
+[16320:10444:1123/112110.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,39]
+[16320:10444:1123/112110.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,39]
+[16320:10444:1123/112110.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,39]
+[16320:10444:1123/112110.736:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,39]
+[16320:10444:1123/112110.738:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,42]
+[16320:10444:1123/112110.738:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,42]
+[16320:10444:1123/112110.738:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,42]
+[16320:10444:1123/112110.738:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,42]
+[16320:10444:1123/112111.423:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[16320:10444:1123/112111.423:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[33292:16580:1123/112322.281:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 19-B4AE2BA409BD8AC845BE7F0A4E344D66 will be ignored
+[16320:18440:1123/112406.534:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,48]
+[16320:10444:1123/112406.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,48]
+[16320:10444:1123/112406.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,48]
+[16320:10444:1123/112406.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,48]
+[16320:10444:1123/112406.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,48]
+[16320:10444:1123/112406.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,51]
+[16320:10444:1123/112406.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,51]
+[16320:10444:1123/112406.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,51]
+[16320:10444:1123/112406.567:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,51]
+[16320:10444:1123/112407.199:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[16320:10444:1123/112407.199:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[16320:10444:1123/112447.800:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
